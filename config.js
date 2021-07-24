@@ -7,7 +7,7 @@ const CONFIG = {
     btnNo: 'Không, Anh trai à :3',
     question:'Nói với anh vài lời được không ?',
     btnReply: 'Gửi cho anh <3',
-    reply: 'Em vẫn chỉ muốn nói với anh ” Em Yêu Anh” ',
+    reply: 'Mặc dù anh không hoàn hảo cho lắm nhưng em vẫn đồng ý làm quen với anh. Anh tận dụng mau đi, trước khi em đổi ý',
     mess: 'Anh biết mà, yêu em nhiều nhiều 😘',
     messDesc: 'Tối nay 7h anh qua đón em  nhé công chúa.',
     btnAccept: 'dạ anh yêu 😍',
